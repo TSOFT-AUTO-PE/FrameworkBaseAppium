@@ -1,52 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/usuario.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/helpers/Config_Caps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/pageobject/APP_TSOFT/PageObject_TSOFT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/steps/APP_TSOFT/steps_TSOFT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/utility/scroll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/excel/App_TSOFT.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/features/APP_TSOFT.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Evidencia.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Evidencia.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend-reporte.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend-reporte.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/helpers/Hook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/helpers/Hook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/pageobject/APP_USSD/PageObject_USSD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/runner/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/runner/RunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/steps/APP_USSD/steps_USSD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/utility/GenerateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/utility/GenerateWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/USSD.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/USSD_2.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/helpers/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/helpers/Hook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/pageobject/APP_AppVentas/PageObject_AppVentas_Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/pageobject/APP_MiMovistar/PageObject_MiMovistar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/pageobject/APP_USSD/PageObject_USSD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/pageobject/myflight/MyFlightPageObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/runner/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/runner/RunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/steps/APP_AppVentas/steps_appVentas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/steps/APP_MiMovistar/steps_appMiMovistar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/steps/APP_USSD/steps_USSD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/steps/myflight/MyFlight_Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/utility/GenerateWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tsoft/bot/frontend/utility/GenerateWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/APP_MiMovistar_TEST1.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/App_Ventas_Login.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/excel/MyFlight.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/APP_MiMovistar.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/App_Ventas_Testing.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/MyFlight_Login.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/USSD.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/features/USSD_2.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/template/Evidencia.docx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/template/Evidencia.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/formatter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="360574ac-4aaa-4518-a335-6fb560437bee" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +20,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
@@ -75,8 +40,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/tsoft/bot/frontend/utility" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TEST1/mobile-automation-framework/pom.xml" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -92,15 +58,16 @@
       <recent name="C:\Users\usuario\Desktop\USSD\TDP-MOVIL-USSD\mobile-automation-framework\src\main\resources\features" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RunTest (1)">
-    <configuration name="Feature: MyFlight_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Feature: APP_TSOFT">
+    <configuration name="Feature: APP_TSOFT" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/MyFlight_Login.feature" />
-      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.myflight" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/APP_TSOFT.feature" />
+      <option name="GLUE" value="com.tsoft.bot.frontend.helpers com.tsoft.bot.frontend.steps.APP_TSOFT" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="web-automation-framework" />
+      <module name="mobile-automation-framework" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: MyFlight_Login" />
+      <option name="SUGGESTED_NAME" value="Feature: APP_TSOFT" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -183,11 +150,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: APP_TSOFT" />
         <item itemvalue="TestNG.RunTest (1)" />
         <item itemvalue="TestNG.RunTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -217,21 +186,33 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1596575493574">
-      <screen x="0" y="0" width="1920" height="1034" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1596726905137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596726905137" />
+    <state width="1877" height="169" key="GridCell.Tab.0.bottom" timestamp="1596747387649">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1034@0.0.1920.1034" timestamp="1596575493574" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1596575493574">
-      <screen x="0" y="0" width="1920" height="1034" />
+    <state width="1877" height="169" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596747387649" />
+    <state width="1877" height="169" key="GridCell.Tab.0.center" timestamp="1596747387649">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1034@0.0.1920.1034" timestamp="1596575493574" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1596575493574">
-      <screen x="0" y="0" width="1920" height="1034" />
+    <state width="1877" height="169" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596747387649" />
+    <state width="1877" height="169" key="GridCell.Tab.0.left" timestamp="1596747387649">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1034@0.0.1920.1034" timestamp="1596575493574" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1596575493574">
-      <screen x="0" y="0" width="1920" height="1034" />
+    <state width="1877" height="169" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596747387649" />
+    <state width="1877" height="169" key="GridCell.Tab.0.right" timestamp="1596747387649">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1034@0.0.1920.1034" timestamp="1596575493574" />
+    <state width="1877" height="169" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596747387649" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1596736111990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1596736111990" />
   </component>
 </project>

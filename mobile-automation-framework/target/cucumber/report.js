@@ -64,11 +64,11 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 44271339752,
+  "duration": 385302300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 223627441,
+  "duration": 42697978400,
   "status": "passed"
 });
 formatter.scenario({
@@ -112,15 +112,15 @@ formatter.match({
   "location": "steps_TSOFT.seIngresaALaAPPDEMOTSOFT()"
 });
 formatter.result({
-  "duration": 2059849296,
-  "status": "passed"
+  "duration": 168962600,
+  "error_message": "java.lang.NullPointerException\r\n\tat com.tsoft.bot.frontend.utility.ExtentReportUtil.takeScreenShot(ExtentReportUtil.java:121)\r\n\tat com.tsoft.bot.frontend.utility.ExtentReportUtil.stepFail(ExtentReportUtil.java:72)\r\n\tat com.tsoft.bot.frontend.pageobject.APP_TSOFT.PageChooseOption.elijaUnaOpcion(PageChooseOption.java:29)\r\n\tat com.tsoft.bot.frontend.steps.APP_TSOFT.steps_TSOFT.seIngresaALaAPPDEMOTSOFT(steps_TSOFT.java:37)\r\n\tat ✽.Given se ingresa a la APP DEMO TSOFT(APP_TSOFT.feature:6)\r\n",
+  "status": "failed"
 });
 formatter.match({
   "location": "steps_TSOFT.seIngresaALaOpciónRegistrarse()"
 });
 formatter.result({
-  "duration": 2072990360,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "arguments": [
@@ -144,19 +144,16 @@ formatter.match({
   "location": "steps_TSOFT.seIngresanLosDatosNombreIdContraseñasYSeAceptanLosTérminos(String,String,String,String)"
 });
 formatter.result({
-  "duration": 6533122215,
-  "status": "passed"
+  "status": "skipped"
 });
 formatter.match({
   "location": "steps_TSOFT.seDaClicEnElBotónRegistrarseYSeValidaMensaje()"
 });
 formatter.result({
-  "duration": 4289021678,
-  "error_message": "org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Could not proxy. Proxy error: Could not proxy command to remote server. Original error: 404 - undefined\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-MS77F7I\u0027, ip: \u0027192.168.1.5\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_221\u0027\nDriver info: io.appium.java_client.AppiumDriver\nCapabilities {appActivity: appinventor.ai_aalexriverar..., appPackage: appinventor.ai_aalexriverar..., databaseEnabled: false, desired: {appActivity: appinventor.ai_aalexriverar..., appPackage: appinventor.ai_aalexriverar..., deviceName: SM J320M, newCommandTimeout: 120, platformName: android, platformVersion: 5.1.1, udid: 42009d83a8a61400}, deviceApiLevel: 22, deviceManufacturer: samsung, deviceModel: SM-J320M, deviceName: 42009d83a8a61400, deviceScreenDensity: 320, deviceScreenSize: 720x1280, deviceUDID: 42009d83a8a61400, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, pixelRatio: 2, platform: LINUX, platformName: LINUX, platformVersion: 5.1.1, statBarHeight: 50, takesScreenshot: true, udid: 42009d83a8a61400, viewportRect: {height: 1230, left: 0, top: 50, width: 720}, warnings: {}, webStorageEnabled: false}\nSession ID: 6530bf56-a77c-4d32-8150-91ef2c5ad1bc\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:46)\r\n\tat io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:442)\r\n\tat com.tsoft.bot.frontend.pageobject.APP_TSOFT.PageObject_TSOFT.Registrar_Validar(PageObject_TSOFT.java:133)\r\n\tat com.tsoft.bot.frontend.steps.APP_TSOFT.steps_TSOFT.seDaClicEnElBotónRegistrarseYSeValidaMensaje(steps_TSOFT.java:48)\r\n\tat ✽.Then se da clic en el botón Registrarse y se valida mensaje(APP_TSOFT.feature:9)\r\n",
-  "status": "failed"
+  "status": "skipped"
 });
 formatter.after({
-  "duration": 1885763284,
+  "duration": 1698863400,
   "status": "passed"
 });
 });

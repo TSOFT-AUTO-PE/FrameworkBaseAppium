@@ -12,7 +12,7 @@ import org.openqa.selenium.By;
 import java.util.HashMap;
 import java.util.List;
 
-public class PageObject_TSOFT {
+public class PageObject_TSOFT{
 
     private static final String EXCEL_APK = "excel/App_TSOFT.xlsx";
     private static final String REGISTRO_APK = "Registro";
